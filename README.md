@@ -1,4 +1,4 @@
-### Ola! 
+### Olá!Tudo bem? 
 Bem vindo ao meu perfil GitHub 👋
 
 Meu nome e Jessica Messias. Sou uma estudante de Sistema para Internet,em Brasilia. Eu diria uma entusiasta da tecnologia 💻  apaixonada por aprender e trabalhar com novas tecnologias. 
