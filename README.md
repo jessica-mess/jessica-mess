@@ -23,7 +23,7 @@ Eu diria que sou uma entusiasta da tecnologia 💻  apaixonada por aprender e tr
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Rafa-pic" height="100" style="border-radius:30px;" 
        src="https://github.com/jessica-mess/jessica-mess/blob/6c5e3fc74eb79080fda124f5bc22029cfbca1099/gif%20noel.jpeg">
        
 </div>
