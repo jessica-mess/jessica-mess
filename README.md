@@ -33,5 +33,4 @@ Meu nome e Jessica Messias. Sou uma estudante de Sistema para Internet,em Brasil
   <a href="https://instagram.com/jessica_mess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
  ![Snake animation](https://github.com/jessica-mess/jessica-mess/blob/106c1bbafa6a13e04c346a8fe9d51d5dfea87cf8/cobrinha.yml)
- 
 </div>
