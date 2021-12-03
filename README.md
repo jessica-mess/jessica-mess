@@ -11,7 +11,7 @@ Meu nome é Jessica Messias. Sou uma estudante de Sistema para Internet,em Brasi
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-mess&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block  align="center"><br>
  
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg">
